@@ -1,6 +1,6 @@
 # Prop Bot
 
-## Quick Start
+## 🚀 Quick Start
 
 ```
 # Start and stop virutal environment
